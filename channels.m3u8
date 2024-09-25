@@ -1,5 +1,7 @@
 #EXTINF:-1 tvg-id="BAND" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/band.png",Band
 https://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BAND" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/band.png",Band
+http://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="GLOBOSP" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/globo.png",Globo
 https://cdn-5.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
