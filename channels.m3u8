@@ -174,7 +174,7 @@ http://abc.embedmax.site/multishow/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ANIMALPLANET" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Animal%20Planet.png",Animal Planet Disc
 http://cdn-5.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 
-#EXTINF:-1 tvg-id="BANDSPORTS" group-title="Esportes" tvg-logo="https://i.imgur.com/bvRubp2.png",Band Sport 🇧🇷
+#EXTINF:-1 tvg-id="BANDSPORTS" group-title="Esportes" tvg-logo="https://i.imgur.com/bvRubp2.png",Band Sports
 http://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="SPORTV" group-title="Esportes" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/sportvbr.webp",Sportv 1
