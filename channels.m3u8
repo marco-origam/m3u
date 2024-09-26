@@ -2,11 +2,11 @@
 http://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SBT0" group-title="Canais" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png",SBT Interior
-https://d2dxmktgc9qcf7.cloudfront.net/out/v1/a7c2cd7ccd84420aa496b5d4cfd9ae79/hlsOutput_5.m3u8
+http://d2dxmktgc9qcf7.cloudfront.net/out/v1/a7c2cd7ccd84420aa496b5d4cfd9ae79/hlsOutput_5.m3u8
 #EXTINF:-1 tvg-id="SBT1" group-title="Canais" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png",SBT Interior
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+http://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="SBT2" group-title="Canais" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png",SBT
-https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
+http://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
 
 #EXTINF:-1 tvg-id="GLOBOSP0" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/globo.png",Globo
 http://cdn-5.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
@@ -74,7 +74,7 @@ http://cdn-5.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8
 http://cdn2.connectbr.com.br/Band-News/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="MASTERCHEF" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Masterchef.png",Masterchef
-https://bit.ly/masterchefBR?profile=inspirationFreetv.m3u8
+http://bit.ly/masterchefBR?profile=inspirationFreetv.m3u8
 
 #EXTINF:-1 tvg-id="HBO" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/0983d8d0c2c41c12d46894af90a08da059496b47/Logos/hbo.svg",HBO
 http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/284603
@@ -175,7 +175,7 @@ http://abc.embedmax.site/multishow/tracks-v1a1/mono.m3u8
 http://cdn-5.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 
 #EXTINF:-1 tvg-id="BANDSPORTS" group-title="Esportes" tvg-logo="https://i.imgur.com/bvRubp2.png",Band Sport 🇧🇷
-https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
+http://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="SPORTV" group-title="Esportes" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/sportvbr.webp",Sportv 1
 http://stklatino.dynns.com:2082/live/restreamJRX200/VnGWupVNjG3L/33328.m3u8
