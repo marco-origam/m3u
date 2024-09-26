@@ -1,43 +1,50 @@
 #EXTINF:-1 tvg-id="BAND" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/band.png",Band
 http://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="GLOBOSP" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/globo.png",Globo
+#EXTINF:-1 tvg-id="SBT0" group-title="Canais" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png",SBT Interior
+https://d2dxmktgc9qcf7.cloudfront.net/out/v1/a7c2cd7ccd84420aa496b5d4cfd9ae79/hlsOutput_5.m3u8
+#EXTINF:-1 tvg-id="SBT1" group-title="Canais" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png",SBT Interior
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-id="SBT2" group-title="Canais" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png",SBT
+https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
+
+#EXTINF:-1 tvg-id="GLOBOSP0" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/globo.png",Globo
 http://cdn-5.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="GLOBOSP" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/globo.png",Globo
+#EXTINF:-1 tvg-id="GLOBOSP1" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/globo.png",Globo
 http://15.235.15.230:14488/GLOBOSP
 
-#EXTINF:-1 tvg-id="ESPN" group-title="Canais" tvg-logo="https://i.imgur.com/CkoAvYH.png",ESPN
+#EXTINF:-1 tvg-id="ESPN0" group-title="Canais" tvg-logo="https://i.imgur.com/CkoAvYH.png",ESPN
 http://authxplus-2.xyz:2082/live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/131.m3u8
-#EXTINF:-1 tvg-id="ESPN" group-title="Canais" tvg-logo="https://i.imgur.com/CkoAvYH.png",ESPN
+#EXTINF:-1 tvg-id="ESPN1" group-title="Canais" tvg-logo="https://i.imgur.com/CkoAvYH.png",ESPN
 http://cdn-5.nxplay.com.br/ESPN/index.m3u8
-#EXTINF:-1 tvg-id="ESPN" group-title="Canais" tvg-logo="https://i.imgur.com/CkoAvYH.png",ESPN
+#EXTINF:-1 tvg-id="ESPN2" group-title="Canais" tvg-logo="https://i.imgur.com/CkoAvYH.png",ESPN
 http://hzcdn.vood.top:80/hls/309458_.m3u8
 
-#EXTINF:-1 tvg-id="ESPN2" group-title="Canais" tvg-logo="https://i.imgur.com/ZAHnoPh.png",ESPN 2
+#EXTINF:-1 tvg-id="ESPN20" group-title="Canais" tvg-logo="https://i.imgur.com/ZAHnoPh.png",ESPN 2
 http://cdn-5.nxplay.com.br/ESPN_2/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2" group-title="Canais" tvg-logo="https://i.imgur.com/ZAHnoPh.png",ESPN 2
+#EXTINF:-1 tvg-id="ESPN21" group-title="Canais" tvg-logo="https://i.imgur.com/ZAHnoPh.png",ESPN 2
 http://conexaoonline.top:80/163120167249336/key5f0e5x0L/144.m3u8
 
-#EXTINF:-1 tvg-id="ESPN3" group-title="Canais" tvg-logo="https://imgur.com/VCPTlBD.png",ESPN 3
+#EXTINF:-1 tvg-id="ESPN30" group-title="Canais" tvg-logo="https://imgur.com/VCPTlBD.png",ESPN 3
 http://cdn-5.nxplay.com.br/ESPN_3/index.m3u8
-#EXTINF:-1 tvg-id="ESPN3" group-title="Canais" tvg-logo="https://imgur.com/VCPTlBD.png",ESPN 3
+#EXTINF:-1 tvg-id="ESPN31" group-title="Canais" tvg-logo="https://imgur.com/VCPTlBD.png",ESPN 3
 http://conexaoonline.top:80/163120167249336/key5f0e5x0L/42.m3u8
 
-#EXTINF:-1 tvg-id="ESPN4" group-title="Canais" tvg-logo="https://imgur.com/ErWFVO3.png",ESPN 4
+#EXTINF:-1 tvg-id="ESPN40" group-title="Canais" tvg-logo="https://imgur.com/ErWFVO3.png",ESPN 4
 http://authxplus-2.xyz:2082/live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/143.m3u8
-#EXTINF:-1 tvg-id="ESPN4" group-title="Canais" tvg-logo="https://imgur.com/ErWFVO3.png",ESPN 4
+#EXTINF:-1 tvg-id="ESPN41" group-title="Canais" tvg-logo="https://imgur.com/ErWFVO3.png",ESPN 4
 http://cdn-5.nxplay.com.br/ESPN_4/index.m3u8
-#EXTINF:-1 tvg-id="ESPN4" group-title="Canais" tvg-logo="https://imgur.com/ErWFVO3.png",ESPN 4
+#EXTINF:-1 tvg-id="ESPN42" group-title="Canais" tvg-logo="https://imgur.com/ErWFVO3.png",ESPN 4
 http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/284581
 
-#EXTINF:-1 tvg-id="FOXSPORTS2" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ESPNusa.webp",ESPN 5
+#EXTINF:-1 tvg-id="FOXSPORTS20" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ESPNusa.webp",ESPN 5
 http://cdnexpress.homelinux.net/live/27.m3u8
-#EXTINF:-1 tvg-id="FOXSPORTS2" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ESPNusa.webp",ESPN 5
+#EXTINF:-1 tvg-id="FOXSPORTS21" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ESPNusa.webp",ESPN 5
 http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/118751
 
-#EXTINF:-1 tvg-id="ESPN6" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ESPNusa.webp",ESPN 6
+#EXTINF:-1 tvg-id="ESPN60" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ESPNusa.webp",ESPN 6
 http://stklatino.dynns.com:2082/live/restreamJRX200/VnGWupVNjG3L/14132.m3u8
-#EXTINF:-1 tvg-id="ESPN6" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ESPNusa.webp",ESPN 6
+#EXTINF:-1 tvg-id="ESPN61" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ESPNusa.webp",ESPN 6
 http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/19057/index.m3u8
 
 #EXTINF:-1 tvg-id="GAZETA" group-title="Canais" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png",Gazeta
@@ -46,25 +53,28 @@ http://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1606860923.m3u8
 #EXTINF:-1 tvg-id="ZOOMTV" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/zoom.png",Zoom TV
 http://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="REDETV" group-title="Canais" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png",RedeTV!
+#EXTINF:-1 tvg-id="REDETV0" group-title="Canais" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png",RedeTV!
 http://bit.ly/48lKogj?profile=freetv.m3u8
-#EXTINF:-1 tvg-id="REDETV" group-title="Canais" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png",RedeTV!
+#EXTINF:-1 tvg-id="REDETV1" group-title="Canais" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png",RedeTV!
 http://stream.ads.ottera.tv/playlist.m3u8?network_id=4555
 
-#EXTINF:-1 tvg-id="RECORDNEWS" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/8ff37d59ca68a1cb7159d1090437a73d50c954c5/Logos/RecordNews.svg",Record News
+#EXTINF:-1 tvg-id="RECORDNEWS0" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/8ff37d59ca68a1cb7159d1090437a73d50c954c5/Logos/RecordNews.svg",Record News
 http://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
-#EXTINF:-1 tvg-id="RECORDNEWS" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/8ff37d59ca68a1cb7159d1090437a73d50c954c5/Logos/RecordNews.svg",Record News
+#EXTINF:-1 tvg-id="RECORDNEWS1" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/8ff37d59ca68a1cb7159d1090437a73d50c954c5/Logos/RecordNews.svg",Record News
 http://bit.ly/3W0rqcE?profile=inspirationFreetv.m3u8
-#EXTINF:-1 tvg-id="RECORDNEWS" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/8ff37d59ca68a1cb7159d1090437a73d50c954c5/Logos/RecordNews.svg",Record News
+#EXTINF:-1 tvg-id="RECORDNEWS2" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/8ff37d59ca68a1cb7159d1090437a73d50c954c5/Logos/RecordNews.svg",Record News
 http://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc/1.m3u8
 
 #EXTINF:-1 tvg-id="CNNBRASIL" group-title="Canais" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/CNN_Brasil.svg",CNN Brasil
 http://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 tvg-id="BANDNEWS" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/bandnews.png",BAND News
+#EXTINF:-1 tvg-id="BANDNEWS0" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/bandnews.png",BAND News
 http://cdn-5.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BANDNEWS" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/bandnews.png",BAND News
+#EXTINF:-1 tvg-id="BANDNEWS1" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/bandnews.png",BAND News
 http://cdn2.connectbr.com.br/Band-News/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MASTERCHEF" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Masterchef.png",Masterchef
+https://bit.ly/masterchefBR?profile=inspirationFreetv.m3u8
 
 #EXTINF:-1 tvg-id="HBO" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/0983d8d0c2c41c12d46894af90a08da059496b47/Logos/hbo.svg",HBO
 http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/284603
@@ -81,9 +91,9 @@ http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/21255
 #EXTINF:-1 tvg-id="HBOFAMILY" group-title="Canais" tvg-logo="https://imgur.com/2dINPFY.png",HBO Family
 http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/21247
 
-#EXTINF:-1 tvg-id="TELECINEPREMIUM" group-title="Canais" tvg-logo="https://imgur.com/SGr7sdL.png",Telecine Premium
+#EXTINF:-1 tvg-id="TELECINEPREMIUM0" group-title="Canais" tvg-logo="https://imgur.com/SGr7sdL.png",Telecine Premium
 http://fzcdn.vood.top:80/hls/633_.m3u8
-#EXTINF:-1 tvg-id="TELECINEPREMIUM" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tcpremium.webp",Telecine Premium
+#EXTINF:-1 tvg-id="TELECINEPREMIUM1" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tcpremium.webp",Telecine Premium
 http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/284599
 
 #EXTINF:-1 tvg-id="TELECINETOUCH" group-title="Canais" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/0/01/Telecine_Touch_2019.svg",Telecine touch
@@ -98,22 +108,22 @@ http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/614
 #EXTINF:-1 tvg-id="TELECINEPIPOCA" group-title="Canais" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Telecine_Pipoca_%282021%29.png",Telecine Pipoca
 http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/21282
 
-#EXTINF:-1 tvg-id="MEGAPIX" group-title="Canais" tvg-logo="https://canalmegapix.com.br/static/images/logo-mpx-desktop.png",Megapix
+#EXTINF:-1 tvg-id="MEGAPIX0" group-title="Canais" tvg-logo="https://canalmegapix.com.br/static/images/logo-mpx-desktop.png",Megapix
 http://xciptv.8888play.one:80/live/228463308/r576049x/692.m3u8
-#EXTINF:-1 tvg-id="MEGAPIX" group-title="Canais" tvg-logo="https://canalmegapix.com.br/static/images/logo-mpx-desktop.png",Megapix
+#EXTINF:-1 tvg-id="MEGAPIX1" group-title="Canais" tvg-logo="https://canalmegapix.com.br/static/images/logo-mpx-desktop.png",Megapix
 http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/21257
 
 #EXTINF:-1 tvg-id="AXN" group-title="Canais" tvg-logo="https://imgur.com/IaxysZJ.png",AXN
 http://cdn-5.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="AMC" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/AMC.png",AMC
+#EXTINF:-1 tvg-id="AMC0" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/AMC.png",AMC
 http://xciptv.8888play.one:80/live/228463308/r576049x/671.m3u8
-#EXTINF:-1 tvg-id="AMC" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/AMC.png",AMC
+#EXTINF:-1 tvg-id="AMC1" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/AMC.png",AMC
 http://cdn-5.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="AE" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/A%26E.png",A&E
+#EXTINF:-1 tvg-id="AE0" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/A%26E.png",A&E
 http://cdn-5.nxplay.com.br/AeE_BRASIL_TK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="AE" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/A%26E.png",A&E
+#EXTINF:-1 tvg-id="AE1" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/A%26E.png",A&E
 http://xciptv.8888play.one:80/live/228463308/r576049x/666.m3u8
 
 #EXTINF:-1 tvg-id="CANALSONY" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SonyChannel.png",Sony Channel
@@ -122,10 +132,12 @@ http://cdn-5.nxplay.com.br/SONY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="WARNERCHANNEL" group-title="Canais" tvg-logo="http://i.imgur.com/qOWul1m.png",Warner Channel
 http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/21291
 
-#EXTINF:-1 tvg-id="TNT Séries.br" group-title="Canais" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT
+#EXTINF:-1 tvg-id="TNT" group-title="Canais" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT
 http://cdn-5.nxplay.com.br/TNT_TK/index.m3u8
-#EXTINF:-1 tvg-id="TNT Séries.br" group-title="Canais" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT Series
+
+#EXTINF:-1 tvg-id="TNTSERIES" group-title="Canais" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT Series
 http://cdn-5.nxplay.com.br/TNT_SERIES_TK/index.m3u8
+
 #EXTINF:-1 tvg-id="TNTNOVELAS" group-title="Canais" tvg-logo="http://i.imgur.com/wBvHWB7.png",TNT Novelas
 http://cdn-5.nxplay.com.br/TNT_NOVELAS_TK/index.m3u8
 
@@ -138,26 +150,38 @@ http://cdn-5.nxplay.com.br/SPACE_TK/index.m3u8
 #EXTINF:-1 tvg-id="CINEMAX" group-title="Canais" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cinemax_%28Yellow%29.svg",CineMax
 http://148.113.160.49:14113/CineMax
 
-#EXTINF:-1 tvg-id="STUDIOUNIVERSAL" group-title="Canais" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Logo_Studio_Universal.svg",Studio Universal
+#EXTINF:-1 tvg-id="STUDIOUNIVERSAL0" group-title="Canais" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Logo_Studio_Universal.svg",Studio Universal
 http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/713
-#EXTINF:-1 tvg-id="STUDIOUNIVERSAL" group-title="Canais" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Logo_Studio_Universal.svg",Studio Universal
+#EXTINF:-1 tvg-id="STUDIOUNIVERSAL1" group-title="Canais" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Logo_Studio_Universal.svg",Studio Universal
 http://dzcdn.vood.top:80/hls/711_.m3u8
 
 #EXTINF:-1 tvg-id="STARCHANNEL" group-title="Canais" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/star-channel-pt.png",Star Channel
 http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/597
 
-#EXTINF:-1 tvg-id="LIFETIME" group-title="Canais" tvg-logo="https://play-lh.googleusercontent.com/446I-cmx0DeTG1vRcSAZHbvw-hWezDfpi67yjeJZuCECUjtek7iIiHiwwLFU4UrW2Q",Lifetime
+#EXTINF:-1 tvg-id="LIFETIME0" group-title="Canais" tvg-logo="https://play-lh.googleusercontent.com/446I-cmx0DeTG1vRcSAZHbvw-hWezDfpi67yjeJZuCECUjtek7iIiHiwwLFU4UrW2Q",Lifetime
 http://cdn.connectbr.com.br:80/Lifetime/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="LIFETIME" group-title="Canais" tvg-logo="https://play-lh.googleusercontent.com/446I-cmx0DeTG1vRcSAZHbvw-hWezDfpi67yjeJZuCECUjtek7iIiHiwwLFU4UrW2Q",Lifetime
+#EXTINF:-1 tvg-id="LIFETIME1" group-title="Canais" tvg-logo="https://play-lh.googleusercontent.com/446I-cmx0DeTG1vRcSAZHbvw-hWezDfpi67yjeJZuCECUjtek7iIiHiwwLFU4UrW2Q",Lifetime
 http://cdn2.connectbr.com.br/life/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VIVA" group-title="Canais" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Canal_Viva_2018_wordmark.svg",Viva
 http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/284616
 
-#EXTINF:-1 tvg-id="MULTISHOW" group-title="Canais" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/brasil/multi-show-hd.png",Multishow
+#EXTINF:-1 tvg-id="MULTISHOW0" group-title="Canais" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/brasil/multi-show-hd.png",Multishow
 http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/377242
-#EXTINF:-1 tvg-id="MULTISHOW" group-title="Canais" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/brasil/multi-show-hd.png",Multishow
+#EXTINF:-1 tvg-id="MULTISHOW1" group-title="Canais" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/brasil/multi-show-hd.png",Multishow
 http://abc.embedmax.site/multishow/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ANIMALPLANET" group-title="Canais" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Animal%20Planet.png",Animal Planet Disc
 http://cdn-5.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="BANDSPORTS" group-title="Esportes" tvg-logo="https://i.imgur.com/bvRubp2.png",Band Sport 🇧🇷
+https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
+
+#EXTINF:-1 tvg-id="SPORTV" group-title="Esportes" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/sportvbr.webp",Sportv 1
+http://stklatino.dynns.com:2082/live/restreamJRX200/VnGWupVNjG3L/33328.m3u8
+
+#EXTINF:-1 tvg-id="SPORTV2" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/sportv-2-br-hd.png",Sportv 2
+http://stklatino.dynns.com:2082/live/restreamJRX200/VnGWupVNjG3L/49187.m3u8
+
+#EXTINF:-1 tvg-id="SPORTV3" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/sportv-3-br-hd.png",Sportv 3
+http://stklatino.dynns.com:2082/live/restreamJRX200/VnGWupVNjG3L/56010.m3u8
